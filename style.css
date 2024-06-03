@@ -9,9 +9,9 @@ body{
     /* background: red; */
     display: flex;
     flex-direction: row;
-    width: 1090px;
+    width: 80%;
     height: 60px;
-    margin-left: 15%;
+    margin-left: 10%;
     margin-top: 40px;
     justify-content: space-between;
 
@@ -289,6 +289,7 @@ body{
 .section1{
 display: flex;
 flex-direction: row;
+width: 80%;
 }
 
 .sectionright{
@@ -362,7 +363,7 @@ flex-direction: row;
 
 .section2left{
     /* margin-left:100px ; */
-    margin-left: 7%;
+    /* margin-left: 7%; */
     width: 100%;
 }
 .section2leftstar{
@@ -435,12 +436,13 @@ flex-direction: row;
     display: flex;
     flex-direction: row;
     margin-top: 300px;
+    width: 80%;
 }
 
 .section3left{
     width: 535px;
     /* margin-left: 200px; */
-    margin-left: 15%;
+    margin-left: 10%;
     margin-top: 100px;
 }
 .section3both{
@@ -524,7 +526,8 @@ flex-direction: row;
 .section4visacard{
     position: absolute;
     z-index: 5;
-    margin-left: 280px;
+    /* margin-left: 280px; */
+    margin-left: 18%;
     margin-top: 210px;
 }
 .section5{
@@ -600,15 +603,15 @@ flex-direction: row;
 
 }
 .section7both{
-    width: 568px;
+    width: 500px;
     background: #ff5555;
-    height: 140px;
+    height: 150px;
     border-radius: 5px;
     align-items: center;
     font-family: 'Arial Black', sans-serif;
 }
 .section7both1{
-    width: 568px;
+    width: 500px;
     /* background: #ff5555; */
     height: 140px;
     border-radius: 5px;
@@ -678,7 +681,7 @@ flex-direction: row;
     display: flex;
     flex-direction: row;
     /* margin-left: 200px; */
-    margin-left: 15%;
+    margin-left: 10%;
     margin-top: 100px;
     gap: 7%;
     /* font-family: 'Courier New', Courier, monospace; */
@@ -759,7 +762,7 @@ flex-direction: row;
     width: 1090px;
     height: 508px;
     /* margin-left: 200px; */
-    margin-left: 15%;
+    margin-left: 11%;
     margin-top: 200px;
     /* background: #a9a4a4; */
     background: #000;
@@ -869,7 +872,7 @@ flex-direction: row;
 .section2topcolorright{
     position: absolute;
   /* margin-top: 400px; */
-  margin-left: 20%;
+  margin-left: 10%;
 }
 .section1topleft{
     position: absolute;
